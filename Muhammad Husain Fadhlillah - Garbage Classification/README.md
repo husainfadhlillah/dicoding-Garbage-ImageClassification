@@ -1,11 +1,11 @@
-# ♻️ Proyek Klasifikasi Sampah (12 Kategori) dengan Deep Learning 🧠
+# ♻️ Proyek Klasifikasi Gambar: Garbage Classification (12 classes) ♻️
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60" alt="TensorFlow Logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" width="110" alt="NumPy Logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" width="60" alt="Matplotlib Logo">
   <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" width="160" alt="Seaborn Logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="120" alt="Scikit-learn Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="90" alt="Scikit-learn Logo">
 </p>
 
 ## Ringkasan Proyek
